@@ -1,0 +1,55 @@
+.static-content{
+	padding: 10px;
+}
+.static-content h2{
+	text-decoration: underline;
+}
+.text-li{
+	padding-left: 100px;
+}
+.static-content ul.text-li li{
+	padding: 15px 0;
+	list-style: none;
+	display: inline-flex;
+}
+.static-content ul.text-li li span{
+	margin-right:25px;
+}
+.static-content  a{
+	color: #88BB0E;
+	text-decoration: none;
+}
+.static-content  a:hover{
+	text-decoration: underline;
+}
+.circle-ul{
+	padding-left: 100px;
+}
+
+.circle-ul li{
+	padding: 15px 0;
+	padding-left: 25px;
+}
+.title-privacy{
+	width: 100%;
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 25px;
+}
+.site-privacy h3{
+	text-decoration: underline;
+	display: block;
+	font-weight: normal;
+	font-size: 20px;
+}
+.site-privacy span{
+	text-transform: uppercase;
+}
+.site-privacy .text-li span{
+	font-size: 20px;
+	padding-right: 30px;
+}
+.site-privacy p i{
+	font-style: normal;
+	text-decoration: underline;
+}
